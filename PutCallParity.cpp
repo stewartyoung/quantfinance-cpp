@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-using namespace std;
+using namespace std; 
 
 int putCallPrice (double underlyingPrice, double maturityTime, double strikePrice , double riskFreeRate, double optionPrice, string optionType )
 {
